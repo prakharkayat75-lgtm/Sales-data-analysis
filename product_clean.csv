@@ -1,0 +1,501 @@
+product_id,category,brand,avg selling price,final price
+1,Home Decor,Brand_0,1013,735
+2,Electronics,Brand_1,996,736
+3,Accessories,Brand_2,1542,1282
+4,Electronics,Brand_3,1007,765
+5,Groceries,Brand_4,1317,1072
+6,Groceries,Brand_5,1839,1533
+7,Clothing,Brand_6,1378,1124
+8,Groceries,Brand_7,1828,1523
+9,Accessories,Brand_8,1594,1332
+10,Home Decor,Brand_9,486,227
+11,Clothing,Brand_10,1212,971
+12,Home Decor,Brand_11,850,592
+13,Home Decor,Brand_12,1704,1429
+14,Accessories,Brand_13,1653,1391
+15,Electronics,Brand_14,2002,1739
+16,Electronics,Brand_15,1280,1012
+17,Electronics,Brand_16,666,413
+18,Groceries,Brand_17,1394,1128
+19,Electronics,Brand_18,1496,1229
+20,Accessories,Brand_19,1377,1117
+21,Groceries,Brand_20,928,642
+22,Electronics,Brand_21,2013,1751
+23,Home Decor,Brand_22,838,591
+24,Accessories,Brand_23,631,371
+25,Accessories,Brand_24,951,697
+26,Clothing,Brand_25,309,63
+27,Accessories,Brand_26,1687,1430
+28,Home Decor,Brand_27,1822,1556
+29,Accessories,Brand_28,919,667
+30,Clothing,Brand_29,666,408
+31,Accessories,Brand_30,1652,1391
+32,Accessories,Brand_31,1392,1148
+33,Clothing,Brand_32,1919,1664
+34,Accessories,Brand_33,508,243
+35,Groceries,Brand_34,673,412
+36,Accessories,Brand_35,1419,1169
+37,Electronics,Brand_36,1359,1113
+38,Electronics,Brand_37,1076,817
+39,Groceries,Brand_38,715,446
+40,Accessories,Brand_39,420,156
+41,Home Decor,Brand_40,1347,1090
+42,Accessories,Brand_41,843,576
+43,Electronics,Brand_42,1319,1099
+44,Clothing,Brand_43,1091,833
+45,Groceries,Brand_44,1844,1572
+46,Clothing,Brand_45,835,574
+47,Home Decor,Brand_46,2079,1832
+48,Accessories,Brand_47,2062,1799
+49,Home Decor,Brand_48,2011,1736
+50,Clothing,Brand_49,2136,1877
+51,Accessories,Brand_50,1372,1116
+52,Home Decor,Brand_51,946,675
+53,Electronics,Brand_52,2193,1915
+54,Electronics,Brand_53,1923,1666
+55,Groceries,Brand_54,657,399
+56,Electronics,Brand_55,1986,1726
+57,Electronics,Brand_56,1359,1133
+58,Clothing,Brand_57,1786,1514
+59,Electronics,Brand_58,1321,1101
+60,Electronics,Brand_59,842,591
+61,Clothing,Brand_60,1795,1528
+62,Electronics,Brand_61,2116,1851
+63,Electronics,Brand_62,1944,1684
+64,Groceries,Brand_63,1265,1011
+65,Electronics,Brand_64,403,143
+66,Electronics,Brand_65,2064,1796
+67,Groceries,Brand_66,1625,1368
+68,Electronics,Brand_67,1886,1622
+69,Electronics,Brand_68,1215,948
+70,Electronics,Brand_69,393,138
+71,Clothing,Brand_70,807,552
+72,Clothing,Brand_71,1073,816
+73,Electronics,Brand_72,527,263
+74,Groceries,Brand_73,1761,1467
+75,Clothing,Brand_74,842,575
+76,Groceries,Brand_75,499,241
+77,Home Decor,Brand_76,2145,1880
+78,Groceries,Brand_77,992,743
+79,Accessories,Brand_78,951,691
+80,Electronics,Brand_79,1553,1297
+81,Clothing,Brand_80,863,604
+82,Groceries,Brand_81,2025,1766
+83,Groceries,Brand_82,698,582
+84,Accessories,Brand_83,992,730
+85,Accessories,Brand_84,1089,825
+86,Electronics,Brand_85,1788,1547
+87,Clothing,Brand_86,1938,1681
+88,Electronics,Brand_87,510,252
+89,Accessories,Brand_88,1323,1059
+90,Groceries,Brand_89,758,496
+91,Accessories,Brand_90,2161,1906
+92,Home Decor,Brand_91,2182,1920
+93,Groceries,Brand_92,1208,949
+94,Electronics,Brand_93,1401,1141
+95,Groceries,Brand_94,1441,1165
+96,Home Decor,Brand_95,1095,827
+97,Accessories,Brand_96,2171,1916
+98,Clothing,Brand_97,481,227
+99,Electronics,Brand_98,1998,1736
+100,Clothing,Brand_99,1121,878
+101,Accessories,Brand_100,864,608
+102,Clothing,Brand_101,1342,1118
+103,Home Decor,Brand_102,412,152
+104,Accessories,Brand_103,1611,1346
+105,Clothing,Brand_104,1862,1551
+106,Electronics,Brand_105,428,165
+107,Accessories,Brand_106,1159,908
+108,Accessories,Brand_107,2247,1985
+109,Groceries,Brand_108,774,513
+110,Clothing,Brand_109,410,153
+111,Electronics,Brand_110,562,308
+112,Home Decor,Brand_111,1655,1381
+113,Accessories,Brand_112,1697,1440
+114,Home Decor,Brand_113,1233,978
+115,Home Decor,Brand_114,1114,859
+116,Home Decor,Brand_115,943,691
+117,Groceries,Brand_116,1115,856
+118,Home Decor,Brand_117,1339,1072
+119,Clothing,Brand_118,1633,1375
+120,Clothing,Brand_119,869,609
+121,Electronics,Brand_120,334,76
+122,Electronics,Brand_121,809,557
+123,Home Decor,Brand_122,853,576
+124,Home Decor,Brand_123,1075,824
+125,Groceries,Brand_124,1691,1438
+126,Home Decor,Brand_125,1259,1002
+127,Home Decor,Brand_126,611,347
+128,Home Decor,Brand_127,1092,826
+129,Accessories,Brand_128,669,410
+130,Accessories,Brand_129,1992,1719
+131,Groceries,Brand_130,805,553
+132,Groceries,Brand_131,894,637
+133,Electronics,Brand_132,328,79
+134,Groceries,Brand_133,1775,1512
+135,Clothing,Brand_134,1661,1413
+136,Home Decor,Brand_135,423,175
+137,Groceries,Brand_136,906,645
+138,Electronics,Brand_137,1897,1639
+139,Groceries,Brand_138,1696,1439
+140,Clothing,Brand_139,2133,1868
+141,Electronics,Brand_140,2194,1828
+142,Electronics,Brand_141,1780,1516
+143,Clothing,Brand_142,568,312
+144,Clothing,Brand_143,1238,985
+145,Accessories,Brand_144,1182,921
+146,Groceries,Brand_145,1554,1295
+147,Electronics,Brand_146,2178,1815
+148,Groceries,Brand_147,306,51
+149,Groceries,Brand_148,2241,1983
+150,Accessories,Brand_149,688,443
+151,Groceries,Brand_150,624,355
+152,Clothing,Brand_151,1481,1219
+153,Groceries,Brand_152,842,579
+154,Electronics,Brand_153,842,577
+155,Electronics,Brand_154,1641,1381
+156,Accessories,Brand_155,1284,1014
+157,Clothing,Brand_156,987,720
+158,Accessories,Brand_157,1670,1413
+159,Electronics,Brand_158,2260,1992
+160,Clothing,Brand_159,677,564
+161,Electronics,Brand_160,1113,859
+162,Clothing,Brand_161,508,258
+163,Home Decor,Brand_162,1265,1007
+164,Clothing,Brand_163,525,254
+165,Groceries,Brand_164,933,777
+166,Home Decor,Brand_165,2028,1690
+167,Accessories,Brand_166,1030,770
+168,Clothing,Brand_167,933,685
+169,Accessories,Brand_168,1352,1088
+170,Clothing,Brand_169,1169,907
+171,Electronics,Brand_170,1770,1501
+172,Electronics,Brand_171,781,525
+173,Groceries,Brand_172,587,347
+174,Electronics,Brand_173,860,606
+175,Home Decor,Brand_174,1425,1167
+176,Home Decor,Brand_175,415,156
+177,Clothing,Brand_176,1752,1492
+178,Accessories,Brand_177,1611,1351
+179,Home Decor,Brand_178,430,359
+180,Clothing,Brand_179,759,508
+181,Accessories,Brand_180,345,87
+182,Electronics,Brand_181,1957,1682
+183,Clothing,Brand_182,517,247
+184,Accessories,Brand_183,2031,1777
+185,Groceries,Brand_184,669,406
+186,Groceries,Brand_185,308,56
+187,Home Decor,Brand_186,1884,1629
+188,Accessories,Brand_187,1666,1405
+189,Groceries,Brand_188,825,568
+190,Home Decor,Brand_189,499,243
+191,Clothing,Brand_190,617,365
+192,Clothing,Brand_191,1339,1074
+193,Accessories,Brand_192,1387,1135
+194,Accessories,Brand_193,647,392
+195,Accessories,Brand_194,905,650
+196,Electronics,Brand_195,1334,1091
+197,Groceries,Brand_196,923,669
+198,Groceries,Brand_197,1982,1720
+199,Home Decor,Brand_198,1708,1444
+200,Groceries,Brand_199,1125,871
+201,Clothing,Brand_200,1919,1652
+202,Home Decor,Brand_201,1933,1610
+203,Groceries,Brand_202,1971,1723
+204,Accessories,Brand_203,2041,1774
+205,Groceries,Brand_204,1903,1644
+206,Electronics,Brand_205,2038,1772
+207,Home Decor,Brand_206,549,284
+208,Groceries,Brand_207,1408,1142
+209,Groceries,Brand_208,750,625
+210,Clothing,Brand_209,917,765
+211,Accessories,Brand_210,326,57
+212,Accessories,Brand_211,782,511
+213,Clothing,Brand_212,1311,1049
+214,Clothing,Brand_213,1650,1384
+215,Electronics,Brand_214,446,183
+216,Home Decor,Brand_215,689,434
+217,Electronics,Brand_216,361,105
+218,Clothing,Brand_217,1293,1042
+219,Clothing,Brand_218,1688,1433
+220,Home Decor,Brand_219,1453,1187
+221,Clothing,Brand_220,1425,1161
+222,Electronics,Brand_221,443,187
+223,Home Decor,Brand_222,1436,1181
+224,Electronics,Brand_223,1841,1573
+225,Groceries,Brand_224,853,584
+226,Accessories,Brand_225,455,193
+227,Clothing,Brand_226,1184,918
+228,Home Decor,Brand_227,957,797
+229,Electronics,Brand_228,359,105
+230,Accessories,Brand_229,938,669
+231,Accessories,Brand_230,2210,1936
+232,Clothing,Brand_231,1349,1079
+233,Accessories,Brand_232,866,721
+234,Clothing,Brand_233,764,496
+235,Groceries,Brand_234,1719,1458
+236,Clothing,Brand_235,1632,1380
+237,Electronics,Brand_236,1181,923
+238,Accessories,Brand_237,2193,1930
+239,Accessories,Brand_238,942,688
+240,Accessories,Brand_239,1638,1375
+241,Clothing,Brand_240,1965,1706
+242,Home Decor,Brand_241,1737,1478
+243,Clothing,Brand_242,918,765
+244,Electronics,Brand_243,2013,1751
+245,Electronics,Brand_244,1140,886
+246,Accessories,Brand_245,2161,1904
+247,Groceries,Brand_246,2087,1826
+248,Electronics,Brand_247,1892,1635
+249,Groceries,Brand_248,1085,829
+250,Electronics,Brand_249,1142,886
+251,Electronics,Brand_250,831,559
+252,Accessories,Brand_251,1415,1146
+253,Clothing,Brand_252,1118,861
+254,Accessories,Brand_253,877,731
+255,Accessories,Brand_254,570,314
+256,Accessories,Brand_255,1559,1300
+257,Groceries,Brand_256,1529,1266
+258,Electronics,Brand_257,1702,1447
+259,Home Decor,Brand_258,2075,1824
+260,Clothing,Brand_259,323,59
+261,Accessories,Brand_260,618,351
+262,Electronics,Brand_261,1692,1432
+263,Clothing,Brand_262,2073,1813
+264,Home Decor,Brand_263,1112,854
+265,Home Decor,Brand_264,1400,1167
+266,Accessories,Brand_265,2079,1825
+267,Home Decor,Brand_266,410,148
+268,Home Decor,Brand_267,904,642
+269,Clothing,Brand_268,1358,1086
+270,Clothing,Brand_269,1736,1463
+271,Accessories,Brand_270,662,406
+272,Electronics,Brand_271,1982,1713
+273,Accessories,Brand_272,2149,1889
+274,Groceries,Brand_273,1234,977
+275,Home Decor,Brand_274,317,60
+276,Electronics,Brand_275,378,130
+277,Clothing,Brand_276,1595,1334
+278,Groceries,Brand_277,326,55
+279,Groceries,Brand_278,1783,1531
+280,Home Decor,Brand_279,693,422
+281,Clothing,Brand_280,788,530
+282,Electronics,Brand_281,532,271
+283,Clothing,Brand_282,2258,1990
+284,Home Decor,Brand_283,2148,1883
+285,Electronics,Brand_284,1420,1154
+286,Home Decor,Brand_285,2245,1996
+287,Accessories,Brand_286,833,564
+288,Groceries,Brand_287,1379,1133
+289,Home Decor,Brand_288,537,270
+290,Electronics,Brand_289,661,398
+291,Electronics,Brand_290,1890,1634
+292,Electronics,Brand_291,533,277
+293,Accessories,Brand_292,592,339
+294,Clothing,Brand_293,607,506
+295,Electronics,Brand_294,1118,932
+296,Accessories,Brand_295,1528,1266
+297,Electronics,Brand_296,1259,1005
+298,Accessories,Brand_297,1799,1547
+299,Electronics,Brand_298,1586,1330
+300,Clothing,Brand_299,1832,1579
+301,Home Decor,Brand_300,701,437
+302,Electronics,Brand_301,925,664
+303,Home Decor,Brand_302,1744,1471
+304,Electronics,Brand_303,681,415
+305,Clothing,Brand_304,966,707
+306,Home Decor,Brand_305,589,339
+307,Accessories,Brand_306,2105,1842
+308,Electronics,Brand_307,1622,1382
+309,Electronics,Brand_308,1610,1351
+310,Accessories,Brand_309,1802,1537
+311,Clothing,Brand_310,503,238
+312,Groceries,Brand_311,1218,967
+313,Electronics,Brand_312,1513,1251
+314,Accessories,Brand_313,1850,1601
+315,Groceries,Brand_314,1228,1023
+316,Electronics,Brand_315,1292,1037
+317,Home Decor,Brand_316,674,424
+318,Accessories,Brand_317,1924,1671
+319,Home Decor,Brand_318,1071,809
+320,Clothing,Brand_319,1797,1527
+321,Groceries,Brand_320,539,266
+322,Accessories,Brand_321,1374,1115
+323,Electronics,Brand_322,515,243
+324,Electronics,Brand_323,1649,1400
+325,Groceries,Brand_324,1695,1446
+326,Home Decor,Brand_325,1797,1538
+327,Home Decor,Brand_326,473,212
+328,Accessories,Brand_327,576,325
+329,Accessories,Brand_328,676,413
+330,Home Decor,Brand_329,1985,1715
+331,Accessories,Brand_330,1078,824
+332,Home Decor,Brand_331,787,656
+333,Groceries,Brand_332,999,738
+334,Accessories,Brand_333,770,642
+335,Home Decor,Brand_334,1591,1338
+336,Accessories,Brand_335,840,588
+337,Electronics,Brand_336,1276,1023
+338,Electronics,Brand_337,1711,1459
+339,Clothing,Brand_338,389,324
+340,Home Decor,Brand_339,2038,1781
+341,Clothing,Brand_340,1649,1389
+342,Home Decor,Brand_341,548,292
+343,Accessories,Brand_342,1797,1542
+344,Home Decor,Brand_343,1192,993
+345,Electronics,Brand_344,1673,1415
+346,Accessories,Brand_345,1511,1250
+347,Electronics,Brand_346,1465,1203
+348,Accessories,Brand_347,975,813
+349,Home Decor,Brand_348,1420,1156
+350,Home Decor,Brand_349,1694,1433
+351,Electronics,Brand_350,406,137
+352,Groceries,Brand_351,1860,1605
+353,Home Decor,Brand_352,1058,791
+354,Groceries,Brand_353,1303,1086
+355,Accessories,Brand_354,1974,1711
+356,Groceries,Brand_355,793,661
+357,Electronics,Brand_356,1827,1571
+358,Clothing,Brand_357,1836,1580
+359,Clothing,Brand_358,1687,1427
+360,Electronics,Brand_359,729,465
+361,Clothing,Brand_360,1388,1124
+362,Electronics,Brand_361,1937,1673
+363,Home Decor,Brand_362,992,731
+364,Groceries,Brand_363,1392,1136
+365,Clothing,Brand_364,1411,1162
+366,Home Decor,Brand_365,2034,1774
+367,Clothing,Brand_366,1524,1263
+368,Accessories,Brand_367,1217,948
+369,Electronics,Brand_368,903,650
+370,Electronics,Brand_369,1686,1405
+371,Home Decor,Brand_370,2174,1917
+372,Accessories,Brand_371,1862,1611
+373,Groceries,Brand_372,1499,1249
+374,Accessories,Brand_373,1698,1437
+375,Electronics,Brand_374,1080,825
+376,Groceries,Brand_375,1210,950
+377,Groceries,Brand_376,2241,1980
+378,Accessories,Brand_377,1876,1627
+379,Clothing,Brand_378,791,532
+380,Clothing,Brand_379,1462,1192
+381,Accessories,Brand_380,471,218
+382,Clothing,Brand_381,1940,1693
+383,Groceries,Brand_382,459,382
+384,Groceries,Brand_383,2009,1761
+385,Clothing,Brand_384,1764,1510
+386,Groceries,Brand_385,752,488
+387,Electronics,Brand_386,1180,937
+388,Groceries,Brand_387,1513,1262
+389,Accessories,Brand_388,474,209
+390,Home Decor,Brand_389,1105,863
+391,Clothing,Brand_390,2176,1933
+392,Clothing,Brand_391,709,451
+393,Groceries,Brand_392,888,635
+394,Groceries,Brand_393,1171,913
+395,Home Decor,Brand_394,1346,1122
+396,Home Decor,Brand_395,454,189
+397,Accessories,Brand_396,1455,1188
+398,Electronics,Brand_397,648,377
+399,Accessories,Brand_398,542,274
+400,Clothing,Brand_399,859,607
+401,Groceries,Brand_400,742,488
+402,Accessories,Brand_401,1877,1623
+403,Groceries,Brand_402,2052,1710
+404,Groceries,Brand_403,692,435
+405,Accessories,Brand_404,827,570
+406,Accessories,Brand_405,1586,1326
+407,Home Decor,Brand_406,920,669
+408,Electronics,Brand_407,2232,1974
+409,Home Decor,Brand_408,1428,1171
+410,Electronics,Brand_409,1087,836
+411,Accessories,Brand_410,1401,1144
+412,Electronics,Brand_411,865,600
+413,Clothing,Brand_412,2147,1883
+414,Home Decor,Brand_413,2261,1986
+415,Home Decor,Brand_414,749,496
+416,Electronics,Brand_415,1429,1163
+417,Groceries,Brand_416,1762,1503
+418,Groceries,Brand_417,1551,1292
+419,Accessories,Brand_418,426,156
+420,Accessories,Brand_419,1818,1549
+421,Groceries,Brand_420,1229,965
+422,Home Decor,Brand_421,1783,1527
+423,Groceries,Brand_422,1218,953
+424,Electronics,Brand_423,1939,1681
+425,Home Decor,Brand_424,2240,1988
+426,Electronics,Brand_425,856,713
+427,Accessories,Brand_426,1445,1199
+428,Groceries,Brand_427,1481,1220
+429,Clothing,Brand_428,591,329
+430,Groceries,Brand_429,338,73
+431,Home Decor,Brand_430,1260,1001
+432,Groceries,Brand_431,2050,1794
+433,Electronics,Brand_432,431,169
+434,Electronics,Brand_433,2126,1859
+435,Clothing,Brand_434,1982,1725
+436,Home Decor,Brand_435,1628,1370
+437,Accessories,Brand_436,1162,968
+438,Clothing,Brand_437,1323,1065
+439,Groceries,Brand_438,1259,993
+440,Clothing,Brand_439,1416,1155
+441,Electronics,Brand_440,761,497
+442,Clothing,Brand_441,2249,1985
+443,Clothing,Brand_442,2051,1793
+444,Groceries,Brand_443,1297,1045
+445,Groceries,Brand_444,2253,1992
+446,Home Decor,Brand_445,1798,1543
+447,Groceries,Brand_446,1760,1496
+448,Clothing,Brand_447,1871,1559
+449,Electronics,Brand_448,1370,1142
+450,Groceries,Brand_449,1394,1134
+451,Home Decor,Brand_450,2150,1896
+452,Home Decor,Brand_451,2036,1774
+453,Clothing,Brand_452,384,133
+454,Groceries,Brand_453,522,274
+455,Groceries,Brand_454,2014,1753
+456,Home Decor,Brand_455,495,235
+457,Groceries,Brand_456,692,424
+458,Clothing,Brand_457,378,315
+459,Electronics,Brand_458,381,318
+460,Clothing,Brand_459,2228,1970
+461,Groceries,Brand_460,1674,1414
+462,Clothing,Brand_461,461,202
+463,Accessories,Brand_462,402,145
+464,Accessories,Brand_463,1890,1638
+465,Groceries,Brand_464,753,494
+466,Groceries,Brand_465,2010,1759
+467,Electronics,Brand_466,1450,1183
+468,Clothing,Brand_467,1791,1531
+469,Electronics,Brand_468,1127,877
+470,Groceries,Brand_469,1388,1124
+471,Groceries,Brand_470,679,426
+472,Home Decor,Brand_471,1068,890
+473,Electronics,Brand_472,1405,1146
+474,Groceries,Brand_473,523,261
+475,Accessories,Brand_474,1764,1505
+476,Home Decor,Brand_475,1029,773
+477,Clothing,Brand_476,2100,1836
+478,Home Decor,Brand_477,1501,1241
+479,Electronics,Brand_478,1074,824
+480,Accessories,Brand_479,641,534
+481,Clothing,Brand_480,2070,1815
+482,Electronics,Brand_481,1068,800
+483,Clothing,Brand_482,2121,1860
+484,Clothing,Brand_483,1831,1567
+485,Home Decor,Brand_484,1481,1216
+486,Accessories,Brand_485,1924,1603
+487,Clothing,Brand_486,1787,1518
+488,Electronics,Brand_487,1126,873
+489,Home Decor,Brand_488,705,588
+490,Electronics,Brand_489,810,561
+491,Accessories,Brand_490,1005,837
+492,Groceries,Brand_491,2196,1921
+493,Electronics,Brand_492,939,670
+494,Home Decor,Brand_493,2051,1788
+495,Home Decor,Brand_494,2042,1770
+496,Electronics,Brand_495,2145,1876
+497,Electronics,Brand_496,1669,1391
+498,Clothing,Brand_497,909,757
+499,Electronics,Brand_498,1591,1332
+500,Electronics,Brand_499,2170,1907
