@@ -65,5 +65,6 @@ Files Included
 * Power BI dashboard file (.pbix)
 * final report(PDF)
 * Final report (PDF)
+* Dashboard (PDF)
 
 ---
